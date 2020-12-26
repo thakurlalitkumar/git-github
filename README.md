@@ -1,2 +1,2 @@
 # git-github
-Test Repository
+Test Repository for Learning Purpose .
